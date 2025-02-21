@@ -7,11 +7,7 @@ import os
 
 # Dictionary of known faces with names and image paths
 known_faces = {
-    "Elmer the Rebel": "known_faces/elmer.jpg",
-    "Bart the Program Manager": "known_faces/bart.png",
-    "Victor the Program Manager": "known_faces/victor.png",
-    "Risa Yamamoto": "known_faces/risa.png",
-    "Haruka Kakiuchi": "known_faces/haruka.png"
+    "Elmer": "known_faces/elmer.jpg", # Add more images of people you'd like to recognize
 }
 
 # Load known face encodings
