@@ -22,6 +22,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Adding Known Faces
+
+Upload images of persons you'd like to recognize in the `known_faces` directory. After that, update `face_recognizer.py` and add the persons' labels and filenames.
+
 ## Run the Application
 
 ### Start Node.js Server
@@ -48,3 +52,4 @@ Use any frontend client to send the images to the backend.
    - Upload multiple image files.
 
 4. Click **Send** and check the response.
+5. 
