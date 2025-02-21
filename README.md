@@ -52,4 +52,3 @@ Use any frontend client to send the images to the backend.
    - Upload multiple image files.
 
 4. Click **Send** and check the response.
-5. 
