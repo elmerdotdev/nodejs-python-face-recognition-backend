@@ -32,8 +32,6 @@ node server.js
 
 Use any frontend client to send the images to the backend.
 
---
-
 ## Sending Images to `/recognize` using Postman
 
 1. Open **Postman** and create a **POST** request to:
